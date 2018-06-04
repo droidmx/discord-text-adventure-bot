@@ -1,13 +1,13 @@
 {
     "api": {
         "discord": {
-            "token": "[bot token goes here]"
+            "token": "NDUzMjQ5NTQ3NDQ4MzUyNzY4.DfcJDA.z28pvtJXAP8NrMLBTTkgNkXvc7M"
         }
     },
     "games": [
         {
-            "name": "exampleName",
-            "prettyName": "Example Name",
+            "name": "QuesttoGreatness",
+            "prettyName": "Quest to Greatness",
             "path": "/tmp/foobar.z5"
         }
     ],
